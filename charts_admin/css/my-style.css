@@ -1,0 +1,116 @@
+.mypull-right{
+  float:none!important;
+  margin-left: 15px;
+}
+.my-xs{
+  width:14.2857%;
+}
+.my-xss{
+  width:16.6666%;
+}
+.my-xs2{
+  width: 25%;
+}
+.my-xs3{
+  width: 16.6666%;
+}
+.my-xs span{
+  font-size: 26px;
+}
+.my-nav-tabs li{
+  width: 9.0909%;
+  text-align: center;
+}
+.my-nav-tabs2 li{
+  width:25%;
+}
+.my-md{
+  margin-top: 5%;
+}
+.my-md2{
+  margin-top: 7%;
+}
+.my-borders{
+  margin-top: -20%;
+  position: absolute;
+  width: 30%;
+  left: 3%;  
+}
+.myrow{
+/*  width: 50%;
+  float: right;*/
+}
+.myrow .my-xs{
+  width: 16.666%;
+}
+.my-nav-tabs3 li{
+  width: 20%;
+  text-align: center;
+}
+.my-actions{
+  padding: 6px 0 63px 0!important;
+}
+.my-actions .control-label{
+  margin-top: 10px;
+}
+.my-btn-group{
+  margin-top:1%; 
+  margin-left: 1%;
+}
+.my-btn-group .btn-sm{
+  padding: 7px 10px;
+}
+.my-nav-tabs4 li{
+  width: 25%;
+}
+.user-list1 th{
+  width: 33.333%;
+}
+.user-list2 th{
+  width: 20%;
+}
+.my-nav-tabs5 li{
+  width: 33.333%;
+}
+.my-nav-tabs6 li{
+  width: 14.2857%;
+}
+.my-nav-tabs7 li{
+  width: 14.2857%;
+}
+.nav-tabs7-a{
+  color: #FF0606;
+}
+.my-btn-groups{
+  width: 10%;
+  float: right;
+  border: 1px solid #32C5D2;
+  border-radius: 6px;
+}
+.my-th{
+  background: #D91E18!important;
+  color: #FFFFFF!important;
+}
+.my-nav-tabs8 li{
+  width: 25%;
+}
+.my-tables th{
+  width: 16.6666%;
+}
+.my-nav-tabs9 li{
+  width: 16.6666%;
+}
+.my-nav-tabs10 li{
+  width:12.5%;
+}
+.th-green{
+  background: #26C281!important;
+  color: #2F353B!important;
+}
+.th-red{
+  background: #EF4836!important;
+  color: #FFFFFF!important;
+}
+
+
+
